@@ -1,0 +1,32 @@
+{
+  "name": "guatedev",
+  "displayName": "GuateDev",
+  "description": "Dark Theme from Guatemala. Colorful Country of Eternal Spring.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Guate Dev",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Guate Dev-color-theme.json"
+      }
+    ]
+  },
+  "icon":"icons/bcdev.png",
+  "author": {
+    "name":"Byron Chang",
+    "email": "byron_chang@hotmail.com",
+    "url": "https://www.linkedin.com/in/byronchangmarroquin/"
+  },
+  "repository": {
+    "url": "https://github.com/ByronChang/vsc-theme-guate-dev.git",
+    "type": "git"
+  },
+  "publisher":"<Byron Chang Dev/>"
+}
