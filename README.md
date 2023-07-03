@@ -1,16 +1,38 @@
-# guatedev README
+# GUATE DEV
 
-## Working with Markdown
+## VSC Dark Theme from Guatemala. Colorful Country of Eternal Spring.
+Guatemala
+Land of eternal spring
+paradise of central america
+Cradle of Mayan culture
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Guatelinda
+you are poetry
+you are song
+I carry you in my heart.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Guatemala
+lovely girl
+With just reason the astonishment
+Don Pedro de Alvarado.
+
+GuateKind-hearted
+Home of Miguel Angel Asturias
+Land of Ricardo Arjona
+Guatemala, my country, your country.
+
+guatebella
+homeland of men of corn
+That from sunrise to sunset they perform their task
+In order to build a GuateKind-hearted.
+....
+
+Author: Edwin Yanes.
 
 ## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Author Extension:"Byron Chang".
+byron_chang@hotmail.com.
+https://www.linkedin.com/in/byronchangmarroquin/
 
 **Enjoy!**
